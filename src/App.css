@@ -1,0 +1,70 @@
+.app-wrapper {
+  display: grid;
+  grid-template-areas: "h h" "n c";
+    grid-template-rows: 120px 1fr;
+      grid-template-columns: 2fr 10fr;
+      /*grid-gap: 10px;*/
+}
+
+.header {
+  background-color: rgb(247, 238, 164);
+  grid-area: h;
+  background: url("https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1080x624/dam/pnr/2020/company/Digital-live-tours-on-International-Museum-Day/WA20MODOX0003_low.jpg/jcr:content/WA20MODOX0003_low.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% auto;
+
+}
+
+.header img {
+  width: 120px;
+}
+
+.nav {
+  grid-area: n;
+  background: rgb(92,131,156);
+  background: -moz-linear-gradient(left, rgb(92,131,156) 0%,
+  rgb(121,160,173) 16%, rgb(132,189,200) 29%, 
+  rgb(126,171,186) 41%, rgb(121,157,173) 49%,
+    rgb(140,169,180) 65%, rgb(177,195,203) 83%,
+    rgb(198,208,214) 100%);
+  background: -webkit-linear-gradient(left, rgb(92,131,156) 0%,
+  rgb(121,160,173) 16%,rgb(132,189,200) 29%,rgb(126,171,186) 41%,
+  rgb(121,157,173) 49%,rgb(140,169,180) 65%,rgb(177,195,203) 83%,
+  rgb(198,208,214) 100%);
+  background: linear-gradient(to right, rgb(92,131,156) 0%,
+  rgb(121,160,173) 16%,rgb(132,189,200) 29%,
+  rgb(126,171,186) 41%,rgb(121,157,173) 49%,
+  rgb(140,169,180) 65%,rgb(177,195,203) 83%,rgb(198,208,214) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient
+  ( startColorstr='#5c839c', endColorstr='#c6d0d6',GradientType=1 );
+
+}
+
+.content {
+  grid-area: c;
+  overflow: hidden;
+  background: rgb(211,223,217);
+  background: -moz-linear-gradient(-45deg, rgb(211,223,217) 0%,
+   rgb(194,214,203) 17%, rgb(165,197,178) 35%,#a0d4af
+    rgb(151,191,168) 51%, rgb(155,201,172) 59%,
+     rgb(160,212,175) 71%, rgb(151,191,166) 84%, rgb(127,179,153) 100%);
+  background: -webkit-linear-gradient(-45deg,
+   rgb(211,223,217) 0%,rgb(194,214,203) 17%,
+   rgb(165,197,178) 35%,rgb(151,191,168) 51%
+   ,rgb(155,201,172) 59%,rgb(160,212,175) 71%,
+   rgb(151,191,166) 84%,rgb(127,179,153) 100%);
+  background: linear-gradient(135deg, rgb(211,223,217)
+   0%,rgb(194,214,203) 17%,rgb(165,197,178) 35%,
+   rgb(151,191,168) 51%,rgb(155,201,172) 59%,
+   rgb(160,212,175) 71%,rgb(151,191,166) 84%,rgb(127,179,153) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient
+  ( startColorstr='#d3dfd9', endColorstr='#7fb399',GradientType=1 );
+
+}
+
+ .content img {
+   max-width: 100%;
+   max-height: 10%;
+   object-fit: cover;
+}
