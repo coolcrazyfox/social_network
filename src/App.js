@@ -7,7 +7,7 @@ const App=()=> {
     return (
         <div className="app-wrapper">
             <header className="header">
-                <img src="http://aboutcars-ac.ru/wp-content/uploads/2014/10/bardelli-Italiya.jpg"></img>
+                <img src="https://www.gifservice.fr/img/gif-vignette-large/2dcd37f5acf39b4010c7d6345bc27932/11854-logo-porsche-coche-transporte.gif"></img>
                 
             </header>
             <nav className="nav">
