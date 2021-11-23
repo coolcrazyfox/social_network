@@ -44,6 +44,8 @@
   background-position: center;
   color: bisque;
   padding: 15px;
+  font-size: 25px;
+}
   
 .content {
   grid-area: c;
