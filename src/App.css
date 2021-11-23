@@ -42,6 +42,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  color: bisque;
   
 .content {
   grid-area: c;
