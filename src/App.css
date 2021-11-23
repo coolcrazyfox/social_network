@@ -23,8 +23,8 @@
 
 .nav {
   grid-area: n;
-  background: rgb(92,131,156);
-  background: -moz-linear-gradient(left, rgb(92,131,156) 0%,
+  background: url("https://i.gifer.com/origin/4e/4ea0f3556d46a3e50fa9c58883a006b3_w200.webp");
+  /*background: -moz-linear-gradient(left, rgb(92,131,156) 0%,
   rgb(121,160,173) 16%, rgb(132,189,200) 29%, 
   rgb(126,171,186) 41%, rgb(121,157,173) 49%,
     rgb(140,169,180) 65%, rgb(177,195,203) 83%,
@@ -38,10 +38,8 @@
   rgb(126,171,186) 41%,rgb(121,157,173) 49%,
   rgb(140,169,180) 65%,rgb(177,195,203) 83%,rgb(198,208,214) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient
-  ( startColorstr='#5c839c', endColorstr='#c6d0d6',GradientType=1 );
-
-}
-
+  ( startColorstr='#5c839c', endColorstr='#c6d0d6',GradientType=1 );*/
+  
 .content {
   grid-area: c;
   overflow: hidden;
