@@ -43,6 +43,7 @@
   background-size: cover;
   background-position: center;
   color: bisque;
+  padding: 15px;
   
 .content {
   grid-area: c;
