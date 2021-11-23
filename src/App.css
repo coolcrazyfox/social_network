@@ -41,6 +41,7 @@
   ( startColorstr='#5c839c', endColorstr='#c6d0d6',GradientType=1 );*/
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   
 .content {
   grid-area: c;
