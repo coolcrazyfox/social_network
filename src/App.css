@@ -39,6 +39,7 @@
   rgb(140,169,180) 65%,rgb(177,195,203) 83%,rgb(198,208,214) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient
   ( startColorstr='#5c839c', endColorstr='#c6d0d6',GradientType=1 );*/
+  background-repeat: no-repeat;
   
 .content {
   grid-area: c;
