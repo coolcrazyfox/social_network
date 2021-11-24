@@ -23,7 +23,7 @@
 
 .nav {
   grid-area: n;
-  background: url("https://i.gifer.com/origin/4e/4ea0f3556d46a3e50fa9c58883a006b3_w200.webp");
+  background: url("https://i.gifer.com/origin/61/6190d1737c8f5aa90907680126f10c32_w200.webp");
   /*background: -moz-linear-gradient(left, rgb(92,131,156) 0%,
   rgb(121,160,173) 16%, rgb(132,189,200) 29%, 
   rgb(126,171,186) 41%, rgb(121,157,173) 49%,
@@ -40,13 +40,21 @@
   filter: progid:DXImageTransform.Microsoft.gradient
   ( startColorstr='#5c839c', endColorstr='#c6d0d6',GradientType=1 );*/
   background-repeat: no-repeat;
+  /*display: flex;
+  flex-direction: column;*/
   background-size: cover;
   background-position: center;
   color: bisque;
   padding: 15px;
   font-size: 25px;
 }
-  
+.nav:hover{
+  color: rgb(143, 199, 245);
+}
+.navLink:hover{
+  color: rgb(214, 141, 115);
+}
+
 .content {
   grid-area: c;
   overflow: hidden;
