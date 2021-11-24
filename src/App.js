@@ -11,19 +11,19 @@ const App=()=> {
             </header>
             <nav className="nav">
                 <div>
-                    <a>Profile</a>
+                    <a className="navLink">Profile</a>
                 </div>
                 <div>
-                    <a>Messages</a>
+                    <a className="navLink">Messages</a>
                 </div>
                 <div>
-                    <a>News</a>
+                    <a className="navLink">News</a>
                 </div>
                 <div>
-                    <a>Music</a>
+                    <a className="navLink">Music</a>
                 </div>
                 <div>
-                    <a>Settings</a>
+                    <a className="navLink">Settings</a>
                 </div>                
             </nav>
             <div className="content">
