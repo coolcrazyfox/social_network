@@ -32,7 +32,8 @@ const App=()=> {
                     {/*"https://a.d-cd.net/9da353u-960.jpg"
                     https://cdn.motor1.com/images/mgl/kXMzB/s3/lamborghini-sian-roadster.jpg
                     https://s0.rbk.ru/v6_top_pics/media/img/6/84/755942852369846.jpg
-                    https://cdn.matador.tech/source//1/p_qwF6Ut0VST7Jj46WSUON647kDniuK-.jpg                    
+                    https://cdn.matador.tech/source//1/p_qwF6Ut0VST7Jj46WSUON647kDniuK-.jpg
+                    https://www.allcarz.ru/wp-content/uploads/2019/09/foto-sian-roadster_02.jpg
                 </div>
                 <div>
                     ava+des
