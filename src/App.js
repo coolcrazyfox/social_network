@@ -34,6 +34,8 @@ const App=()=> {
                     https://s0.rbk.ru/v6_top_pics/media/img/6/84/755942852369846.jpg
                     https://cdn.matador.tech/source//1/p_qwF6Ut0VST7Jj46WSUON647kDniuK-.jpg
                     https://www.allcarz.ru/wp-content/uploads/2019/09/foto-sian-roadster_02.jpg
+                    https://besthqwallpapers.com/Uploads/28-12-2020/149333/thumb2-lamborghini-sian-roadster-2021-front-view-exterior-blue-roadster.jpg
+                    https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/few_off/sian_rds/gallery/SIAN_rds-06.jpg
                 </div>
                 <div>
                     ava+des
