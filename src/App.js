@@ -30,6 +30,7 @@ const App=()=> {
                 <div>
                     <img src="https://motor.ru/imgs/2021/01/14/08/4454528/f1cd242edf54e704e9e6ea96b060eee18bf2cae5.jpg"></img>
                     {/*"https://a.d-cd.net/9da353u-960.jpg"
+                    https://cdn.motor1.com/images/mgl/kXMzB/s3/lamborghini-sian-roadster.jpg
                 </div>
                 <div>
                     ava+des
