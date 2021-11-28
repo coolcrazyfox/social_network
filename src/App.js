@@ -42,22 +42,6 @@ const App=()=> {
                     https://besthqwallpapers.com/Uploads/28-12-2020/149333/thumb2-lamborghini-sian-roadster-2021-front-view-exterior-blue-roadster.jpg
                     */}
                 </div>
-                 <div>
-                    <img src="https://motor.ru/imgs/2021/01/14/08/4454528/f1cd242edf54e704e9e6ea96b060eee18bf2cae5.jpg"></img>
-                    {/*"https://a.d-cd.net/9da353u-960.jpg"
-                    https://cdn.motor1.com/images/mgl/kXMzB/s3/lamborghini-sian-roadster.jpg
-                    https://s0.rbk.ru/v6_top_pics/media/img/6/84/755942852369846.jpg
-                    https://cdn.matador.tech/source//1/p_qwF6Ut0VST7Jj46WSUON647kDniuK-.jpg
-                    https://www.allcarz.ru/wp-content/uploads/2019/09/foto-sian-roadster_02.jpg
-                    https://besthqwallpapers.com/Uploads/28-12-2020/149333/thumb2-lamborghini-sian-roadster-2021-front-view-exterior-blue-roadster.jpg
-                    https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/few_off/sian_rds/gallery/SIAN_rds-06.jpg
-                    https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/few_off/sian_rds/s/SIAN_rds-s-2_M.jpg
-                    https://medialamborghini-meride-tv.akamaized.net/meride/lamborghini/video/images/folder1/749/Video_Hero_Sian_RDS_02.jpg
-                    https://besthqwallpapers.com/Uploads/28-12-2020/149333/thumb2-lamborghini-sian-roadster-2021-front-view-exterior-blue-roadster.jpg
-                    */}
-                </div>
-          
-
                 <div>
                     ava+des
                 </div>
